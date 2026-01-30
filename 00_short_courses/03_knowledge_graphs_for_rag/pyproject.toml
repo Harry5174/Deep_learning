@@ -1,0 +1,7 @@
+[project]
+name = "03-knowledge-graphs-for-rag"
+version = "0.1.0"
+description = "Learning Knowledge Graphs for RAG"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
