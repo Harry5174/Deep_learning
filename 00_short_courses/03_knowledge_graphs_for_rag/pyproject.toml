@@ -4,4 +4,8 @@ version = "0.1.0"
 description = "Learning Knowledge Graphs for RAG"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "dotenv>=0.9.9",
+    "langchain-community>=0.4.1",
+    "neo4j>=6.1.0",
+]
